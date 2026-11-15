@@ -1,0 +1,10 @@
+beta,lambda,n_variables,recall_cv,f1_cv,F,evaluaciones,tiempo_s,variables
+1.0,0.05,5,0.6847,0.1726,0.1613,510,85.2827,"edad, perimetro_abdominal, presion_sistolica, quintil_riqueza, region_resto_costa"
+1.0,0.1,3,0.6903,0.1743,0.1606,441,60.8427,"edad, alcohol_12m, quintil_riqueza"
+1.0,0.2,1,0.7347,0.1567,0.1476,442,55.5831,edad
+2.0,0.05,7,0.6825,0.1782,0.3041,477,78.2968,"edad, mujer, seguro_salud, presion_sistolica, alcohol_12dias_12m, alcohol_30d, quintil_riqueza"
+2.0,0.1,5,0.6859,0.1765,0.2954,426,66.2366,"edad, perimetro_abdominal, presion_sistolica, alcohol_30d, quintil_riqueza"
+2.0,0.2,3,0.7047,0.1674,0.2801,508,74.1846,"edad, mujer, quintil_riqueza"
+3.0,0.05,6,0.6848,0.1785,0.4231,462,76.5459,"edad, mujer, seguro_salud, presion_sistolica, alcohol_30d, quintil_riqueza"
+3.0,0.1,3,0.7125,0.1672,0.417,418,58.4125,"edad, quintil_riqueza, region_resto_costa"
+3.0,0.2,1,0.7347,0.1567,0.4136,485,70.3692,edad

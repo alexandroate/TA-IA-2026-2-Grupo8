@@ -1,0 +1,7 @@
+clasificador,metrica,todas,todas_std,abc_media,caida,perdida_relevante
+KNN,recall,0.6604,0.0413,0.631,0.0293,False
+KNN,f1,0.1528,0.0062,0.139,0.0137,True
+Arbol,recall,0.7148,0.0356,0.6986,0.0162,False
+Arbol,f1,0.1563,0.0086,0.168,-0.0117,False
+RegLog,recall,0.7225,0.0214,0.7103,0.0122,False
+RegLog,f1,0.172,0.0053,0.164,0.008,True

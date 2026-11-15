@@ -1,0 +1,19 @@
+{
+  "n_entrenamiento": 23678,
+  "n_prueba": 5920,
+  "positivos_entrenamiento": 901,
+  "positivos_prueba": 225,
+  "d": 22,
+  "balanceo_elegido": {
+    "KNN": "submuestreo",
+    "Arbol": "submuestreo",
+    "RegLog": "smote"
+  },
+  "semilla_mejor": 1,
+  "variables_abc_mejor": [
+    "edad",
+    "alcohol_12m",
+    "quintil_riqueza"
+  ],
+  "clasificador_subgrupos": "RegLog"
+}

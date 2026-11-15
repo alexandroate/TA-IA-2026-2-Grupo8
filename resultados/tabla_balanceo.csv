@@ -1,0 +1,9 @@
+clasificador,balanceo,recall,precision,f1,f2
+KNN,submuestreo,0.6604,0.0864,0.1528,0.2835
+KNN,smote,0.5616,0.0747,0.1318,0.2438
+Arbol,pesos,0.7203,0.0861,0.1537,0.2908
+Arbol,submuestreo,0.7148,0.0878,0.1563,0.294
+Arbol,smote,0.5849,0.0948,0.163,0.2871
+RegLog,pesos,0.728,0.0968,0.1709,0.316
+RegLog,submuestreo,0.7225,0.0953,0.1684,0.312
+RegLog,smote,0.7225,0.0976,0.172,0.3168

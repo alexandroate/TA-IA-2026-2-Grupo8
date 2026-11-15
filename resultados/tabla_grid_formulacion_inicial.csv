@@ -1,0 +1,10 @@
+alpha,lambda,n_variables,recall_cv,f1_cv,F,evaluaciones,tiempo_s,variables
+0.6,0.05,4,0.7458,0.1493,0.4981,508,78.9677,"edad, peso_kg, talla_cm, region_sierra"
+0.6,0.1,4,0.7603,0.145,0.496,486,67.4099,"edad, talla_cm, imc, alcohol_30d"
+0.6,0.2,1,0.7347,0.1567,0.4944,482,61.9863,edad
+0.7,0.05,4,0.7458,0.1458,0.5567,466,75.1544,"edad, peso_kg, talla_cm, alcohol_12dias_12m"
+0.7,0.1,3,0.7491,0.144,0.554,494,74.957,"edad, talla_cm, imc"
+0.7,0.2,2,0.7536,0.1525,0.5551,408,48.2386,"edad, mujer"
+0.8,0.05,7,0.7547,0.1522,0.6183,515,89.4469,"edad, seguro_salud, talla_cm, imc, area_rural, quintil_riqueza, region_sierra"
+0.8,0.1,6,0.7514,0.1511,0.604,448,71.0088,"edad, seguro_salud, talla_cm, imc, quintil_riqueza, region_sierra"
+0.8,0.2,2,0.8968,0.0767,0.7146,470,60.7301,"fumo_12m, fumo_30d"

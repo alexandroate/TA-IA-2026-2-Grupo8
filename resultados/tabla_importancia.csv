@@ -1,0 +1,4 @@
+variable,coef_reglog_estandarizado,importancia_arbol
+edad,0.9725,0.8896
+quintil_riqueza,0.3155,0.1017
+alcohol_12m,-0.1042,0.0087

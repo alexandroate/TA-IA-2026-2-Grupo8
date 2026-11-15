@@ -1,0 +1,7 @@
+grupo,categoria,n,positivos,recall,precision
+area,Rural,2205,51,0.6667,0.0522
+area,Urbano,3715,174,0.7126,0.1176
+sexo,Hombre,2379,84,0.7143,0.0787
+sexo,Mujer,3541,141,0.695,0.1039
+riqueza,Quintiles 1-2,3584,106,0.6415,0.0767
+riqueza,Quintiles 3-5,2336,119,0.7563,0.1099
