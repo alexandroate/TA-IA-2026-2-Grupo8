@@ -28,6 +28,7 @@ Los subconjuntos seleccionados por ABC binario se comparan frente al uso de las 
 | `resultados/` | Tablas `.csv`, registros `.json` y figuras `.png` (300 DPI) generadas por los experimentos `E0`–`E4` y reportadas en el informe final. |
 | `Grupo8-TA-Final.pdf` | Informe final en formato IEEE / plantilla oficial PUCP. |
 | `Grupo8-TA-Final.docx` | Versión editable del informe final en Microsoft Word. |
+| `Grupo8-TA-Exposicion.pptx` | Presentación de diapositivas (slides) para la exposición final del trabajo académico. |
 
 ---
 
